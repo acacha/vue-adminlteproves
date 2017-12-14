@@ -1,5 +1,6 @@
 <template>
-    <div class="login-box">
+    <body class="hold-transition login-page">
+        <div class="login-box">
         <div class="login-logo">
             <a href="../../index2.html"><b>Admin</b>LTE</a>
         </div>
@@ -47,6 +48,7 @@
         </div>
         <!-- /.login-box-body -->
     </div>
+    </body>
 </template>
 
 <style>
